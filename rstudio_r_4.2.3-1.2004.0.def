@@ -76,7 +76,10 @@ From: ubuntu:20.04
     libmagick++-dev \
     libgdal-dev \
     libhdf5-dev \
-    libpoppler-cpp-dev
+    libpoppler-cpp-dev \
+    libfftw3-dev \
+    libglpk-dev \
+    curl
 
   # Disable session timeout
   # echo "session-timeout-minutes=0" > /etc/rstudio/rsession.conf
