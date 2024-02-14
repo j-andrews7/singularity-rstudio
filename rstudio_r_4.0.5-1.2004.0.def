@@ -79,6 +79,7 @@ From: ubuntu:20.04
     libpoppler-cpp-dev \
     libfftw3-dev \
     libglpk-dev \
+    libgmp-dev \
     curl
 
   # Add a default CRAN mirror

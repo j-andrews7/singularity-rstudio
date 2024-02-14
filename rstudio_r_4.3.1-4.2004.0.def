@@ -83,6 +83,8 @@ From: ubuntu:20.04
     libhdf5-dev \
     libpoppler-cpp-dev \
     libfftw3-dev \
+    libglpk-dev \
+    libgmp-dev \
     curl
 
   # Add a default CRAN mirror
